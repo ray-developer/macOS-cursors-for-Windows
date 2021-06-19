@@ -16,7 +16,7 @@ Re-created for different sizes:
 
 ## Authors
 
-* **antiden** - [CODERTEAM_](https://coderteam.ru)
+* **antiden** - [GYANAM_](https://github.com/GYANAM-ui)
 * Vector icons **antiden**
 
 ## License
